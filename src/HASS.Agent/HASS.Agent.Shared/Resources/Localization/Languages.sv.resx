@@ -1777,7 +1777,7 @@ Vill du använda den versionen?</value>
 		<value>&amp;Respittid vid frånkoppling</value>
 	</data>
   <data name="ConfigGeneral_LblInfo1" xml:space="preserve">
-		<value>Den här sidan innehåller allmänna konfigurationsinställningar, fler inställningar finns i flikarna till vänster.</value>
+		<value>Här finns allmänna konfigurationsinställningar, fler inställningar finns i flikarna till vänster.</value>
 	</data>
   <data name="ConfigGeneral_LblDeviceName" xml:space="preserve">
 		<value>Enhets&amp;namn</value>
@@ -1920,7 +1920,7 @@ utvecklarna ber om det.</value>
 		<value>Brokerns IP-adress eller värdnamn</value>
 	</data>
   <data name="ConfigMqtt_LblTip2" xml:space="preserve">
-		<value>(lämna tomt för att generera automatiskt)</value>
+		<value>(lämna tomt för autogenerering)</value>
 	</data>
   <data name="ConfigMqtt_LblClientId" xml:space="preserve">
 		<value>Klient-ID</value>
@@ -2166,7 +2166,7 @@ På så sätt kan du alltid interagera med Home Assistant, vad du än gör på d
 		<value>Hämta konfiguration</value>
 	</data>
   <data name="ServiceMqtt_LblTip2" xml:space="preserve">
-		<value>(lämna tomt för att generera automatiskt)</value>
+		<value>(lämna tomt för autogenerering)</value>
 	</data>
   <data name="ServiceMqtt_LblClientId" xml:space="preserve">
 		<value>Klient-ID</value>
@@ -2527,7 +2527,7 @@ skapade och underhåller Home Assistant :-)</value>
 		<value>Mediaspelare</value>
 	</data>
   <data name="Configuration_TabTrayIcon" xml:space="preserve">
-		<value>Ikon i meddelandefältet</value>
+		<value>Aktivitetsfältsikon</value>
 	</data>
   <data name="Configuration_BtnAbout" xml:space="preserve">
 		<value>&amp;Om</value>
@@ -2736,7 +2736,7 @@ Det används också som prefix för namnen på dina kommandon/sensorer (detta ka
 		<value>IP-adress eller värdnamn</value>
 	</data>
   <data name="ServiceGeneral_LblInfo1" xml:space="preserve">
-		<value>Den här sidan innehåller allmänna konfigurationsinställningar. För MQTT-inställningar, kommandon och sensorer, bläddra bland flikarna ovan.</value>
+		<value>Här finns allmänna konfigurationsinställningar. För MQTT-inställningar, kommandon och sensorer, bläddra bland flikarna ovan.</value>
 	</data>
   <data name="ServiceGeneral_LblAuthId" xml:space="preserve">
 		<value>Autentiserings-&amp;ID</value>
@@ -2806,7 +2806,7 @@ Se till att ingen annan instans av HASS.Agent körs och att porten är ledig och
 		<value>Skrivare</value>
 	</data>
   <data name="Main_NotifyIcon_MouseClick_MessageBox1" xml:space="preserve">
-		<value>Ingen URL har angetts! Konfigurera webview via Konfiguration -&gt; Ikon i meddelandefältet.</value>
+		<value>Ingen URL har angetts! Konfigurera webview via Konfiguration -&gt; Aktivitetsfältsikon.</value>
 	</data>
   <data name="CommandType_MonitorSleepCommand" xml:space="preserve">
 		<value>SkärmVila</value>
